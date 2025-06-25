@@ -1,0 +1,5 @@
+# Agrega aquí los paquetes que vayas utilizando en el proyecto, por ejemplo:
+sympy
+matplotlib
+numpy
+jupyter
